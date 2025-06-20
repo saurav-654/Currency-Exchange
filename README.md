@@ -33,8 +33,7 @@ A simple web-based currency converter that allows users to convert between diffe
 
 ## Screenshots
 
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![image](https://github.com/user-attachments/assets/b35e818e-7659-4e31-8c79-b59a60bed7c7)
 
-## License
 
-This project is for educational purposes.
+
